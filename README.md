@@ -2,7 +2,7 @@
 
 ### About Me
 Greetings, I'm Peter Luo, a seasoned Back-End Engineer based in Canada.
-###Core Expertise
+### Core Expertise
 My primary area of expertise is writing clear, efficient and scalable code using Python, Node.js, and Java. Furthermore, I have a deep understanding and proficiency in Machine Learning and Natural Language Processing (NLP).
 ### Passion for Technology
 I am enthusiastic about leveraging new technologies and am always eager to learn and adapt quickly. As a result, my skills and knowledge continually evolve, ensuring up-to-date and top-notch solutions.
